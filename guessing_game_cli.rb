@@ -18,5 +18,5 @@ def check
     return "Goodbye!"
   else
     return "Sorry! The computer guessed #{random_number}"
-    
+
 end
