@@ -4,7 +4,7 @@ def random_number_generator
 end
 
 def guess
-  "Please guess a number between 1 and 6."
+  puts "Please guess a number between 1 and 6."
 end
 
 def user_input
