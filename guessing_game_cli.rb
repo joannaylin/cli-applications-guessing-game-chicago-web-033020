@@ -17,6 +17,6 @@ def check
   elsif input == "exit"
     return "Goodbye!"
   else
-    return "Sorry! The computer guessed #{random_number}"
+    return "Sorry! The computer guessed #{random_number}."
 
 end
