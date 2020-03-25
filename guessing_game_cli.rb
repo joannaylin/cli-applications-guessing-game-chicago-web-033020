@@ -1,5 +1,4 @@
 # Code your solution here!
-def guessing_cli
+def random_number_generator
   random_number = (rand(6) + 1)
-
 end
