@@ -19,3 +19,10 @@ def check
   else
     return "Sorry! The computer guessed #{random_number}."
 end
+
+def guessing_game
+  random_number_generator
+  guess
+  user_input
+  check
+end
